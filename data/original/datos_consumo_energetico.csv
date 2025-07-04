@@ -1,0 +1,501 @@
+hogar_id,ciudad,zona,habitantes,tipo_hogar,metraje_m2,consumo_kw_mes,consumo_kw_dia_max,dias_alto_consumo,mes_alto_consumo
+1,Concepción,Rural,2,Casa,103,517.26,14.31,2,Diciembre
+2,La Serena,Urbana,1,Casa,64,391.9,19.76,6,Diciembre
+3,Santiago,Urbana,4,Casa,63,279.5,23.06,8,Julio
+4,Concepción,Rural,4,Departamento,51,344.42,21.57,3,Febrero
+5,Concepción,Urbana,5,Casa,57,405.83,23.2,9,Agosto
+6,La Serena,Rural,2,Casa,54,357.6,18.71,2,Enero
+7,Santiago,Suburbana,5,Casa,66,403.88,15.38,4,Agosto
+8,Santiago,Urbana,2,Casa,111,257.93,6.99,0,Enero
+9,Concepción,Suburbana,5,Casa,99,366.94,13.77,2,Enero
+10,Valparaíso,Rural,3,Departamento,184,208.63,10.78,7,Diciembre
+11,Concepción,Suburbana,3,Departamento,132,338.88,25.85,7,Enero
+12,Concepción,Suburbana,3,Casa,92,259.61,14.12,3,Enero
+13,Concepción,Rural,3,Casa,47,276.45,15.62,1,Julio
+14,Concepción,Suburbana,1,Casa,118,473.61,17.76,7,Agosto
+15,La Serena,Suburbana,3,Casa,66,459.13,15.22,7,Julio
+16,Santiago,Rural,4,Departamento,89,410.91,23.48,9,Enero
+17,La Serena,Suburbana,4,Casa,170,240.77,11.89,3,Diciembre
+18,La Serena,Rural,1,Departamento,132,318.36,15.97,2,Julio
+19,La Serena,Suburbana,3,Departamento,63,471.31,11.29,1,Julio
+20,Concepción,Rural,3,Casa,99,364.17,8.4,8,Febrero
+21,Valparaíso,Rural,3,Departamento,161,581.93,11.94,0,Enero
+22,Santiago,Suburbana,5,Departamento,170,389.33,14.81,6,Diciembre
+23,Valparaíso,Suburbana,2,Departamento,187,369.2,12.85,4,Julio
+24,La Serena,Suburbana,5,Departamento,85,319.09,11.54,7,Julio
+25,La Serena,Urbana,2,Casa,54,363.35,7.97,3,Diciembre
+26,Valparaíso,Urbana,3,Casa,192,334.75,14.58,6,Enero
+27,Valparaíso,Urbana,3,Departamento,56,420.81,7.48,4,Febrero
+28,Valparaíso,Rural,5,Casa,165,445.67,18.8,4,Julio
+29,La Serena,Suburbana,5,Casa,123,271.4,15.41,8,Febrero
+30,La Serena,Rural,2,Casa,48,216.88,7.71,8,Agosto
+31,Santiago,Urbana,4,Casa,102,166.38,13.45,8,Enero
+32,Santiago,Suburbana,2,Casa,156,400.8,11.24,5,Agosto
+33,La Serena,Rural,5,Departamento,169,239.66,16.6,5,Agosto
+34,Valparaíso,Suburbana,5,Casa,127,134.71,21.7,4,Agosto
+35,Valparaíso,Rural,1,Casa,111,388.86,5.62,8,Enero
+36,Santiago,Suburbana,5,Casa,178,599.3,15.58,9,Enero
+37,La Serena,Urbana,1,Casa,103,349.39,14.2,7,Diciembre
+38,Santiago,Urbana,4,Departamento,111,433.85,18.36,6,Febrero
+39,Santiago,Suburbana,2,Departamento,60,358.18,16.07,6,Febrero
+40,Concepción,Rural,2,Departamento,57,340.11,11.24,5,Diciembre
+41,Concepción,Urbana,1,Departamento,103,441.91,13.4,4,Diciembre
+42,Concepción,Urbana,2,Casa,121,320.97,11.02,3,Agosto
+43,Valparaíso,Urbana,5,Departamento,149,376.74,20.38,2,Diciembre
+44,La Serena,Suburbana,3,Casa,134,382.17,15.11,2,Julio
+45,La Serena,Suburbana,1,Casa,71,283.19,24.51,5,Febrero
+46,La Serena,Rural,2,Casa,50,449.2,14.7,3,Diciembre
+47,La Serena,Rural,1,Casa,84,332.5,11.46,5,Julio
+48,Concepción,Rural,1,Casa,72,274.43,7.43,2,Julio
+49,Valparaíso,Suburbana,3,Departamento,141,403.65,5.98,3,Julio
+50,Valparaíso,Suburbana,5,Departamento,175,260.15,7.08,8,Julio
+51,Concepción,Rural,1,Departamento,50,352.82,16.34,4,Agosto
+52,Valparaíso,Rural,2,Departamento,127,349.09,17.54,6,Julio
+53,Concepción,Suburbana,4,Casa,80,458.59,7.09,9,Agosto
+54,La Serena,Rural,1,Departamento,184,397.47,19.48,1,Agosto
+55,Concepción,Urbana,1,Casa,115,347.5,12.58,4,Julio
+56,La Serena,Suburbana,3,Departamento,160,431.78,15.73,8,Febrero
+57,La Serena,Rural,5,Casa,85,489.02,23.06,2,Julio
+58,Santiago,Suburbana,4,Casa,199,405.78,19.48,8,Julio
+59,Concepción,Urbana,2,Departamento,119,351.04,13.66,5,Julio
+60,Santiago,Suburbana,4,Casa,93,218.82,10.54,3,Febrero
+61,Concepción,Suburbana,2,Casa,125,243.49,4.24,6,Enero
+62,Concepción,Suburbana,5,Departamento,131,319.48,11.4,7,Enero
+63,Santiago,Suburbana,2,Casa,187,289.05,13.94,5,Agosto
+64,Santiago,Urbana,3,Departamento,199,331.3,10.06,4,Agosto
+65,Concepción,Suburbana,3,Departamento,136,355.66,14.34,5,Febrero
+66,Valparaíso,Suburbana,3,Departamento,41,402.97,15.38,4,Diciembre
+67,La Serena,Rural,3,Casa,72,342.95,13.88,7,Enero
+68,Santiago,Suburbana,4,Casa,197,398.65,11.75,0,Agosto
+69,La Serena,Rural,5,Casa,116,356.45,15.84,6,Enero
+70,Valparaíso,Urbana,2,Departamento,155,152.45,17.21,9,Febrero
+71,Valparaíso,Urbana,2,Casa,193,256.07,9.55,9,Febrero
+72,Valparaíso,Urbana,3,Departamento,189,335.59,22.05,1,Diciembre
+73,Santiago,Urbana,3,Departamento,142,229.03,14.51,8,Diciembre
+74,Valparaíso,Rural,1,Casa,142,409.99,15.09,0,Febrero
+75,Santiago,Suburbana,5,Departamento,129,503.08,18.54,9,Agosto
+76,Valparaíso,Urbana,4,Casa,161,471.88,16.17,5,Enero
+77,La Serena,Suburbana,2,Casa,182,328.66,19.77,8,Julio
+78,La Serena,Rural,1,Casa,145,499.07,16.44,0,Diciembre
+79,Concepción,Rural,1,Casa,158,364.87,11.94,3,Julio
+80,La Serena,Rural,2,Casa,88,316.29,16.81,3,Agosto
+81,Concepción,Urbana,4,Departamento,143,288.66,9.28,8,Diciembre
+82,La Serena,Suburbana,1,Departamento,100,319.75,15.54,4,Julio
+83,Santiago,Suburbana,1,Departamento,162,311.18,14.83,4,Agosto
+84,La Serena,Suburbana,5,Casa,173,367.04,13.96,5,Enero
+85,Concepción,Rural,4,Casa,48,366.06,14.36,0,Agosto
+86,Concepción,Urbana,1,Casa,45,350.3,5.59,0,Diciembre
+87,Valparaíso,Rural,4,Departamento,112,393.69,12.26,8,Febrero
+88,Santiago,Rural,2,Casa,142,469.06,15.46,2,Enero
+89,La Serena,Suburbana,3,Departamento,199,444.96,15.8,3,Julio
+90,Valparaíso,Rural,1,Departamento,80,201.51,9.86,0,Diciembre
+91,La Serena,Suburbana,5,Casa,153,94.61,21.33,8,Febrero
+92,La Serena,Urbana,2,Casa,47,443.43,10.67,7,Agosto
+93,Valparaíso,Suburbana,4,Departamento,111,213.31,19.85,1,Febrero
+94,Valparaíso,Urbana,2,Casa,131,327.52,17.14,7,Diciembre
+95,Valparaíso,Suburbana,1,Departamento,101,232.99,11.77,6,Diciembre
+96,Valparaíso,Rural,4,Casa,123,169.8,23.88,5,Febrero
+97,Valparaíso,Rural,3,Casa,101,404.15,9.03,0,Agosto
+98,La Serena,Urbana,2,Departamento,150,425.92,19.6,6,Febrero
+99,Valparaíso,Urbana,1,Casa,166,292.35,20.0,9,Diciembre
+100,Santiago,Urbana,5,Departamento,46,90.9,11.65,6,Diciembre
+101,Concepción,Suburbana,4,Casa,123,295.38,21.96,8,Julio
+102,Valparaíso,Suburbana,2,Departamento,171,389.18,13.75,0,Julio
+103,Valparaíso,Urbana,2,Departamento,173,202.11,16.44,1,Enero
+104,La Serena,Rural,3,Casa,97,368.34,16.3,8,Diciembre
+105,Valparaíso,Suburbana,3,Departamento,61,348.47,14.33,8,Julio
+106,Valparaíso,Suburbana,5,Casa,193,407.93,19.05,5,Febrero
+107,Valparaíso,Suburbana,5,Casa,166,361.96,18.97,5,Agosto
+108,La Serena,Urbana,1,Casa,42,252.69,6.26,3,Febrero
+109,Valparaíso,Urbana,1,Departamento,166,469.66,21.52,3,Agosto
+110,Concepción,Urbana,5,Departamento,80,334.15,6.69,4,Julio
+111,La Serena,Urbana,5,Casa,145,347.27,20.16,2,Enero
+112,Concepción,Urbana,4,Casa,53,256.67,20.63,0,Febrero
+113,La Serena,Rural,3,Departamento,51,305.67,9.55,0,Febrero
+114,Valparaíso,Rural,1,Casa,126,261.52,12.95,6,Febrero
+115,Concepción,Urbana,3,Casa,51,332.71,9.47,0,Agosto
+116,La Serena,Suburbana,3,Departamento,180,521.17,13.93,0,Julio
+117,Santiago,Urbana,5,Casa,64,212.81,13.46,2,Febrero
+118,Valparaíso,Rural,4,Departamento,84,188.64,18.9,9,Febrero
+119,La Serena,Rural,2,Casa,161,497.12,21.55,3,Enero
+120,Santiago,Suburbana,4,Departamento,186,329.07,21.98,3,Enero
+121,La Serena,Rural,4,Casa,94,283.09,12.19,1,Julio
+122,Santiago,Urbana,3,Casa,139,453.99,13.95,0,Julio
+123,Valparaíso,Suburbana,4,Departamento,175,289.44,6.58,2,Diciembre
+124,Concepción,Urbana,1,Casa,158,532.6,10.97,3,Enero
+125,Santiago,Urbana,3,Departamento,92,417.79,19.82,2,Diciembre
+126,La Serena,Suburbana,1,Casa,71,301.21,23.08,7,Agosto
+127,Valparaíso,Urbana,2,Departamento,90,565.73,8.83,9,Diciembre
+128,Santiago,Rural,3,Departamento,83,289.43,12.04,0,Febrero
+129,La Serena,Urbana,2,Departamento,121,424.21,14.87,1,Diciembre
+130,La Serena,Suburbana,3,Departamento,185,379.93,16.4,6,Julio
+131,La Serena,Suburbana,5,Casa,189,480.17,10.95,3,Agosto
+132,Santiago,Suburbana,4,Casa,76,506.15,17.12,7,Febrero
+133,Santiago,Urbana,5,Departamento,135,353.2,12.63,2,Diciembre
+134,Santiago,Suburbana,2,Departamento,95,274.66,14.93,5,Agosto
+135,Concepción,Suburbana,4,Departamento,144,396.0,17.73,8,Agosto
+136,Santiago,Urbana,3,Casa,98,282.23,15.03,0,Febrero
+137,Santiago,Rural,4,Casa,170,551.34,12.82,0,Diciembre
+138,Santiago,Urbana,1,Casa,195,363.65,14.45,7,Agosto
+139,Concepción,Suburbana,4,Casa,74,313.47,14.56,2,Agosto
+140,Santiago,Suburbana,1,Departamento,132,368.47,13.15,4,Enero
+141,La Serena,Urbana,4,Departamento,136,215.29,13.71,0,Agosto
+142,Santiago,Rural,1,Departamento,174,252.84,22.99,4,Enero
+143,La Serena,Suburbana,2,Casa,115,470.04,17.8,5,Diciembre
+144,La Serena,Suburbana,5,Casa,88,284.31,13.52,7,Diciembre
+145,La Serena,Suburbana,3,Casa,133,245.31,18.48,2,Diciembre
+146,Concepción,Urbana,4,Departamento,198,403.67,13.33,2,Julio
+147,Concepción,Suburbana,5,Departamento,63,468.57,20.87,9,Diciembre
+148,Concepción,Rural,3,Casa,187,421.9,16.85,8,Agosto
+149,Santiago,Suburbana,3,Departamento,76,449.6,14.46,3,Febrero
+150,La Serena,Suburbana,1,Casa,43,274.32,17.24,3,Enero
+151,Concepción,Rural,2,Casa,147,207.82,7.15,6,Julio
+152,Concepción,Suburbana,2,Departamento,165,500.13,9.37,1,Diciembre
+153,Santiago,Urbana,5,Casa,59,317.73,9.03,7,Diciembre
+154,Concepción,Urbana,2,Departamento,191,324.92,15.71,5,Febrero
+155,Santiago,Urbana,4,Casa,89,482.82,23.66,2,Febrero
+156,Valparaíso,Rural,2,Departamento,135,405.62,26.16,8,Julio
+157,Concepción,Suburbana,5,Departamento,144,395.59,18.19,4,Enero
+158,Valparaíso,Urbana,2,Departamento,156,566.5,17.5,7,Diciembre
+159,Santiago,Rural,4,Casa,137,285.65,5.99,6,Julio
+160,La Serena,Suburbana,1,Casa,105,442.78,12.29,7,Agosto
+161,Concepción,Rural,5,Departamento,118,355.7,11.06,6,Agosto
+162,Santiago,Urbana,1,Departamento,45,376.86,11.9,2,Julio
+163,La Serena,Urbana,1,Casa,78,502.85,14.16,1,Diciembre
+164,La Serena,Urbana,1,Casa,154,400.78,12.64,6,Julio
+165,Valparaíso,Rural,3,Casa,164,403.83,5.1,2,Diciembre
+166,Santiago,Rural,3,Departamento,51,457.25,18.74,2,Febrero
+167,La Serena,Urbana,1,Casa,170,313.5,9.64,1,Julio
+168,Concepción,Rural,5,Casa,57,266.08,16.2,3,Diciembre
+169,Concepción,Urbana,4,Departamento,79,245.52,25.37,7,Julio
+170,Valparaíso,Urbana,4,Casa,60,153.36,10.4,0,Julio
+171,La Serena,Suburbana,2,Casa,182,555.62,2.35,0,Diciembre
+172,Santiago,Rural,5,Casa,138,239.68,13.57,4,Diciembre
+173,Concepción,Urbana,3,Departamento,65,327.87,20.5,4,Enero
+174,La Serena,Urbana,1,Departamento,47,322.32,24.79,0,Julio
+175,La Serena,Rural,2,Departamento,139,380.74,8.85,5,Agosto
+176,Valparaíso,Suburbana,4,Departamento,126,431.57,17.48,0,Julio
+177,Concepción,Suburbana,3,Departamento,81,436.05,12.67,4,Julio
+178,Concepción,Urbana,3,Departamento,53,291.69,14.47,8,Diciembre
+179,Santiago,Rural,1,Departamento,117,333.29,28.22,4,Julio
+180,Concepción,Suburbana,4,Casa,41,378.26,7.49,5,Julio
+181,Santiago,Rural,5,Casa,158,325.13,16.27,7,Agosto
+182,Concepción,Rural,3,Departamento,76,510.73,17.34,0,Diciembre
+183,Valparaíso,Urbana,1,Casa,108,399.1,20.43,1,Julio
+184,Concepción,Suburbana,5,Casa,80,423.49,15.49,8,Febrero
+185,Santiago,Urbana,4,Departamento,101,416.29,16.54,2,Enero
+186,Santiago,Suburbana,3,Casa,99,467.35,13.04,5,Agosto
+187,Valparaíso,Suburbana,5,Casa,164,368.1,16.35,4,Julio
+188,Concepción,Suburbana,5,Casa,150,220.32,13.28,1,Febrero
+189,Concepción,Suburbana,5,Casa,53,389.97,18.11,6,Julio
+190,Valparaíso,Suburbana,3,Casa,123,284.86,13.15,3,Julio
+191,Concepción,Rural,3,Departamento,169,297.14,16.89,0,Diciembre
+192,Concepción,Urbana,2,Departamento,109,408.64,14.85,3,Diciembre
+193,Santiago,Rural,4,Departamento,184,473.83,20.63,5,Diciembre
+194,Concepción,Suburbana,1,Casa,162,352.13,14.74,6,Febrero
+195,Concepción,Urbana,5,Departamento,128,380.88,6.13,6,Julio
+196,Valparaíso,Suburbana,2,Casa,67,520.22,21.31,6,Enero
+197,Valparaíso,Urbana,1,Casa,105,374.08,10.47,2,Agosto
+198,La Serena,Rural,2,Casa,44,610.17,11.73,5,Diciembre
+199,Santiago,Urbana,3,Casa,84,406.55,12.02,7,Diciembre
+200,Concepción,Urbana,5,Departamento,190,173.92,21.87,3,Julio
+201,Concepción,Urbana,1,Departamento,86,425.33,4.32,7,Julio
+202,La Serena,Urbana,1,Casa,70,388.12,30.69,1,Febrero
+203,Concepción,Urbana,1,Departamento,178,478.98,20.28,9,Febrero
+204,Santiago,Suburbana,1,Casa,49,417.32,16.12,8,Diciembre
+205,La Serena,Urbana,1,Departamento,157,336.15,14.73,8,Julio
+206,Santiago,Urbana,2,Departamento,53,227.57,16.43,7,Enero
+207,La Serena,Rural,5,Casa,119,329.1,17.61,9,Agosto
+208,La Serena,Urbana,3,Departamento,132,264.95,18.23,9,Julio
+209,Valparaíso,Rural,3,Casa,49,291.95,17.78,0,Julio
+210,Santiago,Suburbana,3,Departamento,115,408.86,15.45,1,Febrero
+211,Concepción,Urbana,3,Casa,133,516.99,14.01,5,Agosto
+212,Concepción,Rural,2,Casa,144,389.47,14.24,9,Diciembre
+213,Santiago,Rural,4,Departamento,40,230.41,14.03,4,Julio
+214,Concepción,Suburbana,5,Departamento,172,394.46,20.67,8,Diciembre
+215,Concepción,Urbana,1,Casa,59,469.66,17.97,4,Julio
+216,Santiago,Urbana,4,Departamento,47,289.02,1.0,1,Diciembre
+217,La Serena,Rural,3,Departamento,40,336.6,18.28,9,Agosto
+218,Santiago,Urbana,4,Casa,96,351.47,15.97,3,Febrero
+219,La Serena,Rural,5,Casa,103,271.51,14.91,8,Agosto
+220,Concepción,Urbana,1,Departamento,157,414.83,13.06,0,Enero
+221,Concepción,Rural,1,Casa,67,337.91,20.62,0,Febrero
+222,Concepción,Urbana,5,Casa,160,391.95,19.74,6,Agosto
+223,Valparaíso,Suburbana,5,Casa,146,261.25,11.14,2,Enero
+224,La Serena,Urbana,3,Departamento,88,306.25,17.04,9,Julio
+225,Valparaíso,Urbana,1,Departamento,159,422.24,10.14,1,Julio
+226,Valparaíso,Suburbana,4,Casa,83,312.72,8.1,8,Diciembre
+227,Santiago,Urbana,2,Departamento,95,522.7,11.87,2,Febrero
+228,Valparaíso,Suburbana,2,Casa,195,310.04,19.31,1,Julio
+229,Santiago,Urbana,5,Departamento,150,372.47,19.77,7,Febrero
+230,Santiago,Rural,3,Casa,173,443.26,17.57,9,Julio
+231,Valparaíso,Rural,2,Casa,147,208.16,18.63,5,Diciembre
+232,La Serena,Urbana,1,Departamento,187,173.92,17.58,5,Agosto
+233,La Serena,Urbana,5,Casa,153,197.43,11.79,9,Diciembre
+234,La Serena,Urbana,4,Departamento,117,476.26,17.16,6,Enero
+235,La Serena,Rural,5,Departamento,169,294.81,19.0,6,Julio
+236,La Serena,Urbana,4,Casa,76,605.82,18.77,5,Enero
+237,Valparaíso,Rural,5,Casa,59,293.58,20.94,3,Enero
+238,Valparaíso,Suburbana,5,Departamento,65,368.46,18.54,8,Febrero
+239,Concepción,Rural,5,Casa,68,504.21,16.76,5,Julio
+240,La Serena,Rural,4,Casa,40,550.61,20.35,3,Enero
+241,Valparaíso,Suburbana,4,Casa,158,556.15,14.87,2,Agosto
+242,Concepción,Rural,5,Casa,74,470.84,10.59,3,Enero
+243,La Serena,Urbana,2,Casa,98,452.41,14.18,2,Agosto
+244,Santiago,Urbana,3,Departamento,108,409.25,11.28,1,Febrero
+245,Concepción,Rural,3,Departamento,51,427.84,11.62,4,Enero
+246,Valparaíso,Urbana,3,Casa,59,294.88,14.28,1,Diciembre
+247,Santiago,Rural,4,Casa,82,268.18,11.04,5,Febrero
+248,Santiago,Urbana,4,Casa,165,349.66,13.46,2,Agosto
+249,Santiago,Urbana,2,Departamento,89,332.98,5.53,5,Febrero
+250,Concepción,Rural,3,Casa,68,304.68,16.07,9,Enero
+251,Valparaíso,Urbana,3,Departamento,78,419.64,15.01,8,Julio
+252,Santiago,Rural,5,Departamento,190,445.53,10.91,0,Julio
+253,La Serena,Urbana,4,Departamento,77,358.84,18.3,5,Agosto
+254,Santiago,Urbana,3,Casa,123,497.75,19.69,8,Agosto
+255,Santiago,Suburbana,2,Departamento,190,235.83,6.96,3,Julio
+256,Concepción,Suburbana,2,Casa,167,330.63,11.19,1,Agosto
+257,Concepción,Rural,3,Departamento,165,278.32,11.15,3,Febrero
+258,Valparaíso,Suburbana,4,Casa,84,163.35,10.3,0,Diciembre
+259,La Serena,Rural,2,Departamento,91,341.73,19.15,2,Diciembre
+260,Concepción,Suburbana,5,Casa,119,337.83,14.03,9,Febrero
+261,Santiago,Urbana,2,Departamento,163,501.34,13.68,8,Diciembre
+262,Valparaíso,Rural,1,Casa,158,413.08,4.98,9,Enero
+263,Santiago,Rural,1,Casa,47,247.58,18.18,4,Febrero
+264,Santiago,Urbana,4,Casa,124,535.41,8.8,5,Agosto
+265,Concepción,Rural,3,Casa,168,472.1,15.3,2,Febrero
+266,Valparaíso,Rural,4,Departamento,47,408.21,16.39,4,Julio
+267,La Serena,Suburbana,4,Departamento,196,327.35,21.8,7,Agosto
+268,La Serena,Rural,4,Casa,135,254.06,8.46,5,Julio
+269,Concepción,Urbana,4,Departamento,141,312.78,1.0,3,Agosto
+270,Concepción,Suburbana,5,Casa,44,458.87,15.92,1,Diciembre
+271,Valparaíso,Suburbana,5,Casa,125,538.46,24.0,8,Febrero
+272,La Serena,Urbana,2,Departamento,73,504.32,21.19,0,Enero
+273,La Serena,Urbana,1,Casa,94,301.12,16.05,0,Agosto
+274,La Serena,Suburbana,4,Casa,158,238.04,12.54,3,Agosto
+275,Santiago,Rural,2,Departamento,197,364.09,19.04,6,Julio
+276,La Serena,Suburbana,1,Casa,153,173.16,10.13,0,Diciembre
+277,Santiago,Urbana,3,Casa,184,382.32,17.38,8,Julio
+278,Valparaíso,Suburbana,5,Casa,65,335.24,17.53,3,Julio
+279,Santiago,Urbana,1,Casa,175,303.4,20.3,2,Diciembre
+280,Valparaíso,Suburbana,3,Departamento,86,190.53,28.8,0,Enero
+281,La Serena,Rural,1,Departamento,152,401.36,16.96,9,Julio
+282,La Serena,Suburbana,5,Departamento,115,296.73,12.46,3,Julio
+283,Valparaíso,Suburbana,5,Casa,111,233.01,14.87,8,Agosto
+284,Concepción,Urbana,2,Casa,128,62.77,6.15,9,Diciembre
+285,Valparaíso,Urbana,4,Departamento,85,347.25,11.53,5,Febrero
+286,Concepción,Urbana,1,Casa,72,527.23,12.95,5,Enero
+287,Santiago,Suburbana,1,Casa,40,516.13,12.38,0,Enero
+288,Santiago,Rural,3,Casa,186,304.29,15.76,9,Diciembre
+289,Santiago,Urbana,5,Casa,70,289.78,10.89,1,Agosto
+290,La Serena,Urbana,1,Departamento,181,396.88,20.61,5,Agosto
+291,Santiago,Suburbana,5,Departamento,92,250.16,15.0,1,Diciembre
+292,Concepción,Urbana,1,Departamento,87,380.18,14.95,2,Agosto
+293,Santiago,Rural,2,Casa,108,426.61,13.36,3,Enero
+294,Valparaíso,Rural,4,Departamento,144,472.69,15.78,4,Enero
+295,Valparaíso,Urbana,1,Departamento,129,339.98,19.13,8,Febrero
+296,La Serena,Urbana,5,Casa,102,329.63,10.66,3,Diciembre
+297,Valparaíso,Suburbana,2,Casa,112,262.2,11.71,8,Julio
+298,Concepción,Rural,1,Departamento,128,267.31,13.48,9,Julio
+299,Santiago,Rural,3,Departamento,52,327.35,8.27,2,Febrero
+300,La Serena,Urbana,4,Departamento,112,386.74,10.9,7,Febrero
+301,Santiago,Suburbana,1,Departamento,116,441.36,12.62,0,Agosto
+302,Santiago,Rural,2,Casa,198,269.68,19.37,8,Febrero
+303,Concepción,Rural,3,Departamento,107,499.27,16.31,8,Febrero
+304,Valparaíso,Suburbana,2,Departamento,137,322.89,15.97,9,Julio
+305,Valparaíso,Suburbana,2,Casa,164,347.86,19.25,1,Agosto
+306,Santiago,Rural,3,Departamento,141,275.28,14.31,3,Febrero
+307,La Serena,Rural,2,Casa,171,107.58,16.95,7,Febrero
+308,Valparaíso,Suburbana,3,Casa,141,438.4,14.48,6,Agosto
+309,La Serena,Rural,1,Casa,58,423.68,16.33,0,Diciembre
+310,Valparaíso,Urbana,3,Departamento,121,321.87,12.09,4,Agosto
+311,La Serena,Urbana,3,Departamento,180,356.7,2.81,6,Julio
+312,Concepción,Suburbana,4,Casa,62,401.59,14.33,3,Diciembre
+313,La Serena,Suburbana,3,Departamento,122,193.75,22.11,0,Enero
+314,Concepción,Suburbana,3,Departamento,148,297.09,19.63,8,Agosto
+315,Concepción,Urbana,1,Casa,114,429.43,19.83,4,Julio
+316,La Serena,Rural,4,Casa,168,224.57,21.18,1,Diciembre
+317,Concepción,Urbana,5,Departamento,127,379.36,15.44,7,Agosto
+318,Santiago,Rural,1,Casa,93,214.34,15.99,1,Febrero
+319,Concepción,Urbana,1,Departamento,128,396.64,11.91,2,Agosto
+320,Valparaíso,Rural,5,Departamento,182,346.44,13.42,9,Enero
+321,La Serena,Urbana,3,Departamento,104,188.49,18.08,0,Agosto
+322,Santiago,Suburbana,2,Departamento,115,466.47,21.02,1,Diciembre
+323,La Serena,Urbana,4,Casa,182,276.54,14.3,6,Diciembre
+324,Valparaíso,Rural,2,Casa,188,268.97,12.75,9,Agosto
+325,Valparaíso,Urbana,5,Casa,186,370.06,15.0,1,Diciembre
+326,Valparaíso,Urbana,1,Casa,99,464.86,18.01,5,Febrero
+327,Concepción,Urbana,1,Departamento,132,248.42,7.78,2,Agosto
+328,Concepción,Suburbana,4,Departamento,88,356.17,3.52,3,Febrero
+329,La Serena,Urbana,1,Casa,74,392.88,12.25,7,Febrero
+330,La Serena,Suburbana,1,Departamento,141,419.31,8.9,2,Julio
+331,Santiago,Suburbana,4,Departamento,50,367.64,12.46,9,Agosto
+332,Santiago,Urbana,4,Departamento,138,313.3,14.26,5,Diciembre
+333,La Serena,Urbana,5,Casa,149,267.24,12.73,0,Febrero
+334,Concepción,Urbana,1,Casa,113,358.61,22.26,6,Julio
+335,Valparaíso,Rural,1,Casa,48,242.79,16.63,7,Agosto
+336,La Serena,Urbana,5,Departamento,42,57.86,16.5,7,Agosto
+337,Santiago,Suburbana,3,Casa,124,393.66,18.11,2,Enero
+338,Concepción,Urbana,3,Casa,65,440.39,9.31,9,Enero
+339,La Serena,Rural,3,Casa,111,113.71,20.2,0,Febrero
+340,La Serena,Urbana,5,Casa,87,249.03,14.62,8,Enero
+341,Concepción,Rural,1,Casa,195,411.92,18.35,5,Febrero
+342,La Serena,Rural,5,Casa,156,555.75,9.64,8,Diciembre
+343,Concepción,Urbana,5,Departamento,193,352.08,7.23,6,Febrero
+344,Valparaíso,Suburbana,3,Departamento,192,277.2,19.09,0,Enero
+345,Concepción,Rural,2,Casa,51,331.71,16.88,0,Diciembre
+346,Concepción,Urbana,1,Casa,172,487.49,10.49,5,Enero
+347,Concepción,Urbana,3,Departamento,87,285.4,10.65,4,Febrero
+348,La Serena,Suburbana,2,Departamento,76,270.08,20.63,8,Julio
+349,La Serena,Rural,2,Casa,83,301.73,9.05,1,Agosto
+350,Concepción,Rural,4,Casa,54,254.67,23.21,7,Enero
+351,La Serena,Urbana,1,Casa,82,362.27,10.5,4,Febrero
+352,Santiago,Urbana,2,Casa,126,512.47,18.19,1,Diciembre
+353,Santiago,Suburbana,3,Departamento,109,382.31,13.36,9,Enero
+354,La Serena,Suburbana,4,Casa,85,324.76,18.02,5,Enero
+355,La Serena,Rural,1,Casa,147,320.82,12.28,9,Agosto
+356,Concepción,Rural,5,Casa,162,193.68,14.19,7,Febrero
+357,Valparaíso,Urbana,3,Casa,60,438.31,15.2,3,Julio
+358,La Serena,Rural,2,Departamento,190,342.22,9.99,1,Diciembre
+359,Santiago,Suburbana,2,Departamento,146,331.95,18.7,4,Febrero
+360,Concepción,Suburbana,3,Departamento,119,669.31,12.43,1,Diciembre
+361,La Serena,Urbana,2,Casa,86,379.88,13.86,1,Enero
+362,Santiago,Suburbana,4,Casa,156,274.82,10.03,5,Agosto
+363,Santiago,Suburbana,1,Departamento,163,307.36,2.19,9,Agosto
+364,Valparaíso,Suburbana,4,Casa,182,464.84,14.04,8,Julio
+365,Concepción,Suburbana,2,Casa,64,361.33,27.06,3,Agosto
+366,Concepción,Urbana,5,Departamento,75,206.17,18.92,5,Enero
+367,Valparaíso,Urbana,1,Departamento,90,441.92,14.9,6,Julio
+368,Valparaíso,Rural,1,Departamento,54,283.19,13.69,5,Febrero
+369,Concepción,Suburbana,3,Departamento,107,537.33,15.11,7,Agosto
+370,Concepción,Rural,3,Casa,60,458.0,17.74,3,Julio
+371,La Serena,Urbana,5,Casa,180,305.27,9.1,0,Enero
+372,La Serena,Urbana,1,Departamento,58,478.1,20.57,6,Diciembre
+373,Valparaíso,Urbana,5,Casa,73,356.79,18.58,2,Diciembre
+374,La Serena,Urbana,3,Departamento,117,435.28,18.59,5,Enero
+375,Santiago,Urbana,3,Departamento,164,398.47,17.19,1,Enero
+376,La Serena,Urbana,1,Casa,156,265.36,15.1,8,Diciembre
+377,La Serena,Urbana,4,Departamento,91,285.65,18.36,0,Julio
+378,Santiago,Suburbana,2,Casa,66,453.0,17.96,5,Diciembre
+379,Valparaíso,Rural,3,Casa,196,316.52,13.23,5,Enero
+380,Santiago,Urbana,3,Casa,195,309.64,12.13,4,Agosto
+381,La Serena,Suburbana,4,Casa,74,254.49,15.51,4,Febrero
+382,Valparaíso,Suburbana,4,Departamento,175,392.36,22.75,0,Agosto
+383,La Serena,Rural,5,Casa,183,556.25,8.8,9,Agosto
+384,Santiago,Urbana,5,Departamento,145,243.25,7.66,4,Enero
+385,Santiago,Rural,2,Departamento,197,352.42,15.82,1,Diciembre
+386,La Serena,Urbana,2,Departamento,185,491.22,15.25,6,Julio
+387,Concepción,Suburbana,1,Departamento,41,342.04,15.87,2,Agosto
+388,Concepción,Suburbana,5,Casa,116,395.24,16.22,3,Diciembre
+389,Santiago,Suburbana,3,Casa,171,243.76,13.88,2,Julio
+390,Santiago,Suburbana,5,Departamento,129,392.83,22.45,2,Agosto
+391,Concepción,Rural,3,Departamento,128,331.29,7.0,3,Julio
+392,Concepción,Urbana,4,Casa,133,448.57,10.86,4,Diciembre
+393,La Serena,Urbana,5,Departamento,46,468.74,14.48,0,Febrero
+394,La Serena,Rural,4,Casa,134,608.96,6.78,3,Diciembre
+395,Concepción,Urbana,2,Departamento,147,407.96,14.12,7,Enero
+396,La Serena,Suburbana,2,Casa,113,382.58,23.31,9,Julio
+397,La Serena,Urbana,1,Departamento,78,369.44,15.1,6,Febrero
+398,Valparaíso,Suburbana,5,Departamento,180,314.68,16.15,8,Julio
+399,La Serena,Rural,4,Casa,198,383.85,8.7,4,Julio
+400,Santiago,Urbana,3,Departamento,110,320.46,11.92,9,Agosto
+401,La Serena,Rural,2,Departamento,95,366.85,13.12,3,Enero
+402,La Serena,Urbana,2,Casa,81,481.76,13.41,7,Julio
+403,Concepción,Suburbana,3,Departamento,75,249.35,21.41,8,Diciembre
+404,Santiago,Rural,4,Casa,123,463.99,17.79,6,Diciembre
+405,La Serena,Urbana,4,Casa,157,481.71,9.44,6,Agosto
+406,La Serena,Suburbana,5,Departamento,46,338.19,16.23,4,Enero
+407,Valparaíso,Rural,5,Departamento,93,137.81,17.49,3,Enero
+408,La Serena,Rural,1,Departamento,168,289.22,20.7,9,Diciembre
+409,La Serena,Urbana,2,Departamento,159,479.7,22.9,0,Febrero
+410,Valparaíso,Urbana,5,Departamento,145,347.71,9.92,9,Agosto
+411,Concepción,Urbana,4,Departamento,86,250.07,10.95,9,Agosto
+412,La Serena,Suburbana,3,Departamento,162,299.52,8.71,6,Diciembre
+413,Valparaíso,Urbana,4,Casa,180,434.06,13.83,0,Diciembre
+414,Santiago,Rural,2,Departamento,158,404.67,17.33,0,Febrero
+415,Concepción,Rural,4,Casa,189,326.11,19.94,4,Febrero
+416,Santiago,Urbana,1,Departamento,157,313.32,14.62,8,Enero
+417,Santiago,Urbana,2,Departamento,60,310.82,13.4,5,Agosto
+418,Valparaíso,Rural,3,Casa,176,257.76,15.76,2,Agosto
+419,La Serena,Suburbana,1,Departamento,65,511.54,10.82,2,Diciembre
+420,Valparaíso,Urbana,2,Departamento,48,317.77,25.45,6,Enero
+421,Valparaíso,Urbana,3,Casa,54,471.72,6.96,5,Agosto
+422,Valparaíso,Rural,1,Departamento,49,502.13,15.92,8,Enero
+423,Valparaíso,Urbana,1,Departamento,161,449.83,25.12,5,Enero
+424,Concepción,Suburbana,2,Departamento,160,306.84,15.03,4,Diciembre
+425,La Serena,Rural,5,Casa,164,390.37,14.05,9,Enero
+426,Santiago,Urbana,1,Departamento,111,347.58,13.21,6,Febrero
+427,Santiago,Rural,1,Departamento,191,259.63,14.1,0,Febrero
+428,La Serena,Urbana,3,Departamento,88,382.44,21.86,6,Julio
+429,Santiago,Urbana,4,Departamento,193,232.1,3.94,2,Diciembre
+430,La Serena,Urbana,2,Casa,130,468.77,22.67,8,Julio
+431,Santiago,Suburbana,2,Casa,76,303.54,7.88,5,Febrero
+432,Valparaíso,Suburbana,5,Departamento,107,370.12,13.67,8,Julio
+433,Santiago,Rural,5,Departamento,89,378.33,12.85,4,Diciembre
+434,La Serena,Urbana,2,Casa,191,324.11,17.94,6,Diciembre
+435,La Serena,Urbana,5,Casa,58,408.67,7.01,3,Enero
+436,La Serena,Suburbana,3,Departamento,139,302.51,17.31,6,Agosto
+437,La Serena,Urbana,2,Casa,99,437.13,25.12,0,Enero
+438,La Serena,Suburbana,5,Departamento,128,215.4,8.18,6,Diciembre
+439,Concepción,Urbana,2,Casa,185,362.64,15.95,7,Febrero
+440,Concepción,Rural,4,Casa,186,543.89,11.69,4,Febrero
+441,Santiago,Urbana,1,Casa,108,249.97,17.13,1,Enero
+442,La Serena,Urbana,2,Casa,88,282.23,15.1,4,Diciembre
+443,Santiago,Suburbana,1,Departamento,147,401.39,11.79,5,Febrero
+444,La Serena,Urbana,5,Casa,158,367.96,17.44,1,Diciembre
+445,La Serena,Urbana,1,Casa,188,385.06,24.02,5,Febrero
+446,Concepción,Suburbana,2,Departamento,189,398.92,14.05,5,Diciembre
+447,Concepción,Rural,4,Casa,76,413.47,18.6,0,Julio
+448,Valparaíso,Rural,5,Casa,182,460.97,8.53,0,Diciembre
+449,Concepción,Suburbana,2,Departamento,199,390.98,10.22,9,Diciembre
+450,Valparaíso,Suburbana,5,Casa,50,325.87,17.36,2,Enero
+451,Valparaíso,Suburbana,3,Departamento,177,417.26,22.42,9,Julio
+452,Valparaíso,Suburbana,1,Departamento,117,539.99,16.78,9,Agosto
+453,Valparaíso,Suburbana,3,Departamento,116,336.74,13.43,2,Enero
+454,Valparaíso,Rural,2,Departamento,192,252.55,15.0,3,Agosto
+455,Santiago,Rural,4,Casa,41,460.71,8.75,1,Febrero
+456,Concepción,Suburbana,5,Departamento,103,337.96,18.02,8,Agosto
+457,Valparaíso,Urbana,1,Casa,74,132.73,19.41,9,Diciembre
+458,La Serena,Suburbana,5,Casa,46,434.74,12.74,6,Agosto
+459,Concepción,Urbana,2,Casa,124,296.47,12.65,6,Enero
+460,Concepción,Suburbana,5,Casa,185,340.95,16.33,5,Enero
+461,Valparaíso,Suburbana,1,Casa,106,383.2,12.82,2,Agosto
+462,Santiago,Rural,2,Casa,81,369.05,14.67,5,Enero
+463,Valparaíso,Urbana,5,Casa,157,420.95,25.5,7,Enero
+464,Santiago,Urbana,4,Casa,164,306.45,13.76,7,Agosto
+465,La Serena,Rural,2,Casa,63,401.31,13.21,8,Julio
+466,Concepción,Rural,2,Casa,85,324.05,11.76,0,Julio
+467,La Serena,Rural,4,Departamento,58,423.88,18.72,0,Febrero
+468,Santiago,Rural,3,Departamento,107,411.54,14.09,2,Enero
+469,Santiago,Urbana,1,Departamento,141,256.46,11.75,2,Agosto
+470,La Serena,Urbana,3,Casa,81,458.6,21.61,9,Enero
+471,Santiago,Suburbana,5,Departamento,71,296.4,22.1,7,Diciembre
+472,La Serena,Suburbana,4,Departamento,148,430.81,12.0,9,Enero
+473,Concepción,Rural,3,Departamento,75,386.73,5.67,0,Enero
+474,La Serena,Rural,2,Casa,136,533.82,20.04,1,Julio
+475,Concepción,Rural,5,Casa,170,327.65,11.58,1,Agosto
+476,La Serena,Suburbana,5,Casa,112,315.07,18.95,2,Enero
+477,Santiago,Suburbana,3,Casa,175,348.06,5.15,5,Julio
+478,La Serena,Suburbana,3,Departamento,136,319.68,19.46,0,Febrero
+479,Santiago,Suburbana,4,Departamento,162,429.99,8.94,1,Julio
+480,La Serena,Suburbana,1,Departamento,109,188.37,18.65,0,Julio
+481,La Serena,Suburbana,3,Departamento,52,244.63,15.07,4,Julio
+482,Valparaíso,Suburbana,3,Casa,88,243.22,10.23,6,Enero
+483,Santiago,Rural,2,Casa,99,445.03,12.96,7,Enero
+484,Valparaíso,Rural,5,Casa,169,521.06,18.43,9,Febrero
+485,Santiago,Rural,1,Departamento,44,339.56,15.53,0,Diciembre
+486,Valparaíso,Rural,2,Casa,66,333.12,17.92,6,Diciembre
+487,Concepción,Suburbana,4,Casa,199,357.01,24.88,4,Diciembre
+488,La Serena,Urbana,4,Departamento,188,466.19,7.18,9,Febrero
+489,Santiago,Suburbana,3,Departamento,47,257.26,23.09,0,Diciembre
+490,Santiago,Urbana,3,Casa,89,373.84,15.52,2,Diciembre
+491,La Serena,Rural,4,Casa,106,447.52,10.51,6,Julio
+492,Santiago,Suburbana,3,Casa,83,400.11,8.35,9,Enero
+493,Santiago,Rural,1,Casa,164,368.96,14.05,0,Enero
+494,Valparaíso,Suburbana,3,Casa,97,450.1,19.61,6,Julio
+495,Santiago,Rural,5,Casa,42,79.68,14.36,4,Julio
+496,Concepción,Urbana,3,Departamento,125,417.79,22.56,0,Julio
+497,Concepción,Urbana,2,Departamento,109,284.59,7.74,0,Enero
+498,La Serena,Urbana,1,Departamento,169,166.94,14.94,0,Diciembre
+499,Santiago,Suburbana,2,Casa,41,401.12,8.74,8,Julio
+500,La Serena,Urbana,2,Departamento,141,487.37,16.82,2,Febrero

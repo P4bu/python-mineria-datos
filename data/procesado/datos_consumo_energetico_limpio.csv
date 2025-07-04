@@ -1,0 +1,501 @@
+hogar_id,ciudad,zona,habitantes,tipo_hogar,metraje_m2,consumo_kw_mes,consumo_kw_dia_max,dias_alto_consumo,mes_alto_consumo,mes_alto_consumo_num
+1,concepcion,rural,2,casa,103,517.26,14.31,2,diciembre,12
+2,la serena,urbana,1,casa,64,391.9,19.76,6,diciembre,12
+3,santiago,urbana,4,casa,63,279.5,23.06,8,julio,7
+4,concepcion,rural,4,departamento,51,344.42,21.57,3,febrero,2
+5,concepcion,urbana,5,casa,57,405.83,23.2,9,agosto,8
+6,la serena,rural,2,casa,54,357.6,18.71,2,enero,1
+7,santiago,suburbana,5,casa,66,403.88,15.38,4,agosto,8
+8,santiago,urbana,2,casa,111,257.93,6.99,0,enero,1
+9,concepcion,suburbana,5,casa,99,366.94,13.77,2,enero,1
+10,valparaiso,rural,3,departamento,184,208.63,10.78,7,diciembre,12
+11,concepcion,suburbana,3,departamento,132,338.88,25.85,7,enero,1
+12,concepcion,suburbana,3,casa,92,259.61,14.12,3,enero,1
+13,concepcion,rural,3,casa,47,276.45,15.62,1,julio,7
+14,concepcion,suburbana,1,casa,118,473.61,17.76,7,agosto,8
+15,la serena,suburbana,3,casa,66,459.13,15.22,7,julio,7
+16,santiago,rural,4,departamento,89,410.91,23.48,9,enero,1
+17,la serena,suburbana,4,casa,170,240.77,11.89,3,diciembre,12
+18,la serena,rural,1,departamento,132,318.36,15.97,2,julio,7
+19,la serena,suburbana,3,departamento,63,471.31,11.29,1,julio,7
+20,concepcion,rural,3,casa,99,364.17,8.4,8,febrero,2
+21,valparaiso,rural,3,departamento,161,581.93,11.94,0,enero,1
+22,santiago,suburbana,5,departamento,170,389.33,14.81,6,diciembre,12
+23,valparaiso,suburbana,2,departamento,187,369.2,12.85,4,julio,7
+24,la serena,suburbana,5,departamento,85,319.09,11.54,7,julio,7
+25,la serena,urbana,2,casa,54,363.35,7.97,3,diciembre,12
+26,valparaiso,urbana,3,casa,192,334.75,14.58,6,enero,1
+27,valparaiso,urbana,3,departamento,56,420.81,7.48,4,febrero,2
+28,valparaiso,rural,5,casa,165,445.67,18.8,4,julio,7
+29,la serena,suburbana,5,casa,123,271.4,15.41,8,febrero,2
+30,la serena,rural,2,casa,48,216.88,7.71,8,agosto,8
+31,santiago,urbana,4,casa,102,166.38,13.45,8,enero,1
+32,santiago,suburbana,2,casa,156,400.8,11.24,5,agosto,8
+33,la serena,rural,5,departamento,169,239.66,16.6,5,agosto,8
+34,valparaiso,suburbana,5,casa,127,134.71,21.7,4,agosto,8
+35,valparaiso,rural,1,casa,111,388.86,5.62,8,enero,1
+36,santiago,suburbana,5,casa,178,599.3,15.58,9,enero,1
+37,la serena,urbana,1,casa,103,349.39,14.2,7,diciembre,12
+38,santiago,urbana,4,departamento,111,433.85,18.36,6,febrero,2
+39,santiago,suburbana,2,departamento,60,358.18,16.07,6,febrero,2
+40,concepcion,rural,2,departamento,57,340.11,11.24,5,diciembre,12
+41,concepcion,urbana,1,departamento,103,441.91,13.4,4,diciembre,12
+42,concepcion,urbana,2,casa,121,320.97,11.02,3,agosto,8
+43,valparaiso,urbana,5,departamento,149,376.74,20.38,2,diciembre,12
+44,la serena,suburbana,3,casa,134,382.17,15.11,2,julio,7
+45,la serena,suburbana,1,casa,71,283.19,24.51,5,febrero,2
+46,la serena,rural,2,casa,50,449.2,14.7,3,diciembre,12
+47,la serena,rural,1,casa,84,332.5,11.46,5,julio,7
+48,concepcion,rural,1,casa,72,274.43,7.43,2,julio,7
+49,valparaiso,suburbana,3,departamento,141,403.65,5.98,3,julio,7
+50,valparaiso,suburbana,5,departamento,175,260.15,7.08,8,julio,7
+51,concepcion,rural,1,departamento,50,352.82,16.34,4,agosto,8
+52,valparaiso,rural,2,departamento,127,349.09,17.54,6,julio,7
+53,concepcion,suburbana,4,casa,80,458.59,7.09,9,agosto,8
+54,la serena,rural,1,departamento,184,397.47,19.48,1,agosto,8
+55,concepcion,urbana,1,casa,115,347.5,12.58,4,julio,7
+56,la serena,suburbana,3,departamento,160,431.78,15.73,8,febrero,2
+57,la serena,rural,5,casa,85,489.02,23.06,2,julio,7
+58,santiago,suburbana,4,casa,199,405.78,19.48,8,julio,7
+59,concepcion,urbana,2,departamento,119,351.04,13.66,5,julio,7
+60,santiago,suburbana,4,casa,93,218.82,10.54,3,febrero,2
+61,concepcion,suburbana,2,casa,125,243.49,4.24,6,enero,1
+62,concepcion,suburbana,5,departamento,131,319.48,11.4,7,enero,1
+63,santiago,suburbana,2,casa,187,289.05,13.94,5,agosto,8
+64,santiago,urbana,3,departamento,199,331.3,10.06,4,agosto,8
+65,concepcion,suburbana,3,departamento,136,355.66,14.34,5,febrero,2
+66,valparaiso,suburbana,3,departamento,41,402.97,15.38,4,diciembre,12
+67,la serena,rural,3,casa,72,342.95,13.88,7,enero,1
+68,santiago,suburbana,4,casa,197,398.65,11.75,0,agosto,8
+69,la serena,rural,5,casa,116,356.45,15.84,6,enero,1
+70,valparaiso,urbana,2,departamento,155,152.45,17.21,9,febrero,2
+71,valparaiso,urbana,2,casa,193,256.07,9.55,9,febrero,2
+72,valparaiso,urbana,3,departamento,189,335.59,22.05,1,diciembre,12
+73,santiago,urbana,3,departamento,142,229.03,14.51,8,diciembre,12
+74,valparaiso,rural,1,casa,142,409.99,15.09,0,febrero,2
+75,santiago,suburbana,5,departamento,129,503.08,18.54,9,agosto,8
+76,valparaiso,urbana,4,casa,161,471.88,16.17,5,enero,1
+77,la serena,suburbana,2,casa,182,328.66,19.77,8,julio,7
+78,la serena,rural,1,casa,145,499.07,16.44,0,diciembre,12
+79,concepcion,rural,1,casa,158,364.87,11.94,3,julio,7
+80,la serena,rural,2,casa,88,316.29,16.81,3,agosto,8
+81,concepcion,urbana,4,departamento,143,288.66,9.28,8,diciembre,12
+82,la serena,suburbana,1,departamento,100,319.75,15.54,4,julio,7
+83,santiago,suburbana,1,departamento,162,311.18,14.83,4,agosto,8
+84,la serena,suburbana,5,casa,173,367.04,13.96,5,enero,1
+85,concepcion,rural,4,casa,48,366.06,14.36,0,agosto,8
+86,concepcion,urbana,1,casa,45,350.3,5.59,0,diciembre,12
+87,valparaiso,rural,4,departamento,112,393.69,12.26,8,febrero,2
+88,santiago,rural,2,casa,142,469.06,15.46,2,enero,1
+89,la serena,suburbana,3,departamento,199,444.96,15.8,3,julio,7
+90,valparaiso,rural,1,departamento,80,201.51,9.86,0,diciembre,12
+91,la serena,suburbana,5,casa,153,94.61,21.33,8,febrero,2
+92,la serena,urbana,2,casa,47,443.43,10.67,7,agosto,8
+93,valparaiso,suburbana,4,departamento,111,213.31,19.85,1,febrero,2
+94,valparaiso,urbana,2,casa,131,327.52,17.14,7,diciembre,12
+95,valparaiso,suburbana,1,departamento,101,232.99,11.77,6,diciembre,12
+96,valparaiso,rural,4,casa,123,169.8,23.88,5,febrero,2
+97,valparaiso,rural,3,casa,101,404.15,9.03,0,agosto,8
+98,la serena,urbana,2,departamento,150,425.92,19.6,6,febrero,2
+99,valparaiso,urbana,1,casa,166,292.35,20.0,9,diciembre,12
+100,santiago,urbana,5,departamento,46,90.9,11.65,6,diciembre,12
+101,concepcion,suburbana,4,casa,123,295.38,21.96,8,julio,7
+102,valparaiso,suburbana,2,departamento,171,389.18,13.75,0,julio,7
+103,valparaiso,urbana,2,departamento,173,202.11,16.44,1,enero,1
+104,la serena,rural,3,casa,97,368.34,16.3,8,diciembre,12
+105,valparaiso,suburbana,3,departamento,61,348.47,14.33,8,julio,7
+106,valparaiso,suburbana,5,casa,193,407.93,19.05,5,febrero,2
+107,valparaiso,suburbana,5,casa,166,361.96,18.97,5,agosto,8
+108,la serena,urbana,1,casa,42,252.69,6.26,3,febrero,2
+109,valparaiso,urbana,1,departamento,166,469.66,21.52,3,agosto,8
+110,concepcion,urbana,5,departamento,80,334.15,6.69,4,julio,7
+111,la serena,urbana,5,casa,145,347.27,20.16,2,enero,1
+112,concepcion,urbana,4,casa,53,256.67,20.63,0,febrero,2
+113,la serena,rural,3,departamento,51,305.67,9.55,0,febrero,2
+114,valparaiso,rural,1,casa,126,261.52,12.95,6,febrero,2
+115,concepcion,urbana,3,casa,51,332.71,9.47,0,agosto,8
+116,la serena,suburbana,3,departamento,180,521.17,13.93,0,julio,7
+117,santiago,urbana,5,casa,64,212.81,13.46,2,febrero,2
+118,valparaiso,rural,4,departamento,84,188.64,18.9,9,febrero,2
+119,la serena,rural,2,casa,161,497.12,21.55,3,enero,1
+120,santiago,suburbana,4,departamento,186,329.07,21.98,3,enero,1
+121,la serena,rural,4,casa,94,283.09,12.19,1,julio,7
+122,santiago,urbana,3,casa,139,453.99,13.95,0,julio,7
+123,valparaiso,suburbana,4,departamento,175,289.44,6.58,2,diciembre,12
+124,concepcion,urbana,1,casa,158,532.6,10.97,3,enero,1
+125,santiago,urbana,3,departamento,92,417.79,19.82,2,diciembre,12
+126,la serena,suburbana,1,casa,71,301.21,23.08,7,agosto,8
+127,valparaiso,urbana,2,departamento,90,565.73,8.83,9,diciembre,12
+128,santiago,rural,3,departamento,83,289.43,12.04,0,febrero,2
+129,la serena,urbana,2,departamento,121,424.21,14.87,1,diciembre,12
+130,la serena,suburbana,3,departamento,185,379.93,16.4,6,julio,7
+131,la serena,suburbana,5,casa,189,480.17,10.95,3,agosto,8
+132,santiago,suburbana,4,casa,76,506.15,17.12,7,febrero,2
+133,santiago,urbana,5,departamento,135,353.2,12.63,2,diciembre,12
+134,santiago,suburbana,2,departamento,95,274.66,14.93,5,agosto,8
+135,concepcion,suburbana,4,departamento,144,396.0,17.73,8,agosto,8
+136,santiago,urbana,3,casa,98,282.23,15.03,0,febrero,2
+137,santiago,rural,4,casa,170,551.34,12.82,0,diciembre,12
+138,santiago,urbana,1,casa,195,363.65,14.45,7,agosto,8
+139,concepcion,suburbana,4,casa,74,313.47,14.56,2,agosto,8
+140,santiago,suburbana,1,departamento,132,368.47,13.15,4,enero,1
+141,la serena,urbana,4,departamento,136,215.29,13.71,0,agosto,8
+142,santiago,rural,1,departamento,174,252.84,22.99,4,enero,1
+143,la serena,suburbana,2,casa,115,470.04,17.8,5,diciembre,12
+144,la serena,suburbana,5,casa,88,284.31,13.52,7,diciembre,12
+145,la serena,suburbana,3,casa,133,245.31,18.48,2,diciembre,12
+146,concepcion,urbana,4,departamento,198,403.67,13.33,2,julio,7
+147,concepcion,suburbana,5,departamento,63,468.57,20.87,9,diciembre,12
+148,concepcion,rural,3,casa,187,421.9,16.85,8,agosto,8
+149,santiago,suburbana,3,departamento,76,449.6,14.46,3,febrero,2
+150,la serena,suburbana,1,casa,43,274.32,17.24,3,enero,1
+151,concepcion,rural,2,casa,147,207.82,7.15,6,julio,7
+152,concepcion,suburbana,2,departamento,165,500.13,9.37,1,diciembre,12
+153,santiago,urbana,5,casa,59,317.73,9.03,7,diciembre,12
+154,concepcion,urbana,2,departamento,191,324.92,15.71,5,febrero,2
+155,santiago,urbana,4,casa,89,482.82,23.66,2,febrero,2
+156,valparaiso,rural,2,departamento,135,405.62,26.16,8,julio,7
+157,concepcion,suburbana,5,departamento,144,395.59,18.19,4,enero,1
+158,valparaiso,urbana,2,departamento,156,566.5,17.5,7,diciembre,12
+159,santiago,rural,4,casa,137,285.65,5.99,6,julio,7
+160,la serena,suburbana,1,casa,105,442.78,12.29,7,agosto,8
+161,concepcion,rural,5,departamento,118,355.7,11.06,6,agosto,8
+162,santiago,urbana,1,departamento,45,376.86,11.9,2,julio,7
+163,la serena,urbana,1,casa,78,502.85,14.16,1,diciembre,12
+164,la serena,urbana,1,casa,154,400.78,12.64,6,julio,7
+165,valparaiso,rural,3,casa,164,403.83,5.1,2,diciembre,12
+166,santiago,rural,3,departamento,51,457.25,18.74,2,febrero,2
+167,la serena,urbana,1,casa,170,313.5,9.64,1,julio,7
+168,concepcion,rural,5,casa,57,266.08,16.2,3,diciembre,12
+169,concepcion,urbana,4,departamento,79,245.52,25.37,7,julio,7
+170,valparaiso,urbana,4,casa,60,153.36,10.4,0,julio,7
+171,la serena,suburbana,2,casa,182,555.62,2.35,0,diciembre,12
+172,santiago,rural,5,casa,138,239.68,13.57,4,diciembre,12
+173,concepcion,urbana,3,departamento,65,327.87,20.5,4,enero,1
+174,la serena,urbana,1,departamento,47,322.32,24.79,0,julio,7
+175,la serena,rural,2,departamento,139,380.74,8.85,5,agosto,8
+176,valparaiso,suburbana,4,departamento,126,431.57,17.48,0,julio,7
+177,concepcion,suburbana,3,departamento,81,436.05,12.67,4,julio,7
+178,concepcion,urbana,3,departamento,53,291.69,14.47,8,diciembre,12
+179,santiago,rural,1,departamento,117,333.29,28.22,4,julio,7
+180,concepcion,suburbana,4,casa,41,378.26,7.49,5,julio,7
+181,santiago,rural,5,casa,158,325.13,16.27,7,agosto,8
+182,concepcion,rural,3,departamento,76,510.73,17.34,0,diciembre,12
+183,valparaiso,urbana,1,casa,108,399.1,20.43,1,julio,7
+184,concepcion,suburbana,5,casa,80,423.49,15.49,8,febrero,2
+185,santiago,urbana,4,departamento,101,416.29,16.54,2,enero,1
+186,santiago,suburbana,3,casa,99,467.35,13.04,5,agosto,8
+187,valparaiso,suburbana,5,casa,164,368.1,16.35,4,julio,7
+188,concepcion,suburbana,5,casa,150,220.32,13.28,1,febrero,2
+189,concepcion,suburbana,5,casa,53,389.97,18.11,6,julio,7
+190,valparaiso,suburbana,3,casa,123,284.86,13.15,3,julio,7
+191,concepcion,rural,3,departamento,169,297.14,16.89,0,diciembre,12
+192,concepcion,urbana,2,departamento,109,408.64,14.85,3,diciembre,12
+193,santiago,rural,4,departamento,184,473.83,20.63,5,diciembre,12
+194,concepcion,suburbana,1,casa,162,352.13,14.74,6,febrero,2
+195,concepcion,urbana,5,departamento,128,380.88,6.13,6,julio,7
+196,valparaiso,suburbana,2,casa,67,520.22,21.31,6,enero,1
+197,valparaiso,urbana,1,casa,105,374.08,10.47,2,agosto,8
+198,la serena,rural,2,casa,44,610.17,11.73,5,diciembre,12
+199,santiago,urbana,3,casa,84,406.55,12.02,7,diciembre,12
+200,concepcion,urbana,5,departamento,190,173.92,21.87,3,julio,7
+201,concepcion,urbana,1,departamento,86,425.33,4.32,7,julio,7
+202,la serena,urbana,1,casa,70,388.12,30.69,1,febrero,2
+203,concepcion,urbana,1,departamento,178,478.98,20.28,9,febrero,2
+204,santiago,suburbana,1,casa,49,417.32,16.12,8,diciembre,12
+205,la serena,urbana,1,departamento,157,336.15,14.73,8,julio,7
+206,santiago,urbana,2,departamento,53,227.57,16.43,7,enero,1
+207,la serena,rural,5,casa,119,329.1,17.61,9,agosto,8
+208,la serena,urbana,3,departamento,132,264.95,18.23,9,julio,7
+209,valparaiso,rural,3,casa,49,291.95,17.78,0,julio,7
+210,santiago,suburbana,3,departamento,115,408.86,15.45,1,febrero,2
+211,concepcion,urbana,3,casa,133,516.99,14.01,5,agosto,8
+212,concepcion,rural,2,casa,144,389.47,14.24,9,diciembre,12
+213,santiago,rural,4,departamento,40,230.41,14.03,4,julio,7
+214,concepcion,suburbana,5,departamento,172,394.46,20.67,8,diciembre,12
+215,concepcion,urbana,1,casa,59,469.66,17.97,4,julio,7
+216,santiago,urbana,4,departamento,47,289.02,1.0,1,diciembre,12
+217,la serena,rural,3,departamento,40,336.6,18.28,9,agosto,8
+218,santiago,urbana,4,casa,96,351.47,15.97,3,febrero,2
+219,la serena,rural,5,casa,103,271.51,14.91,8,agosto,8
+220,concepcion,urbana,1,departamento,157,414.83,13.06,0,enero,1
+221,concepcion,rural,1,casa,67,337.91,20.62,0,febrero,2
+222,concepcion,urbana,5,casa,160,391.95,19.74,6,agosto,8
+223,valparaiso,suburbana,5,casa,146,261.25,11.14,2,enero,1
+224,la serena,urbana,3,departamento,88,306.25,17.04,9,julio,7
+225,valparaiso,urbana,1,departamento,159,422.24,10.14,1,julio,7
+226,valparaiso,suburbana,4,casa,83,312.72,8.1,8,diciembre,12
+227,santiago,urbana,2,departamento,95,522.7,11.87,2,febrero,2
+228,valparaiso,suburbana,2,casa,195,310.04,19.31,1,julio,7
+229,santiago,urbana,5,departamento,150,372.47,19.77,7,febrero,2
+230,santiago,rural,3,casa,173,443.26,17.57,9,julio,7
+231,valparaiso,rural,2,casa,147,208.16,18.63,5,diciembre,12
+232,la serena,urbana,1,departamento,187,173.92,17.58,5,agosto,8
+233,la serena,urbana,5,casa,153,197.43,11.79,9,diciembre,12
+234,la serena,urbana,4,departamento,117,476.26,17.16,6,enero,1
+235,la serena,rural,5,departamento,169,294.81,19.0,6,julio,7
+236,la serena,urbana,4,casa,76,605.82,18.77,5,enero,1
+237,valparaiso,rural,5,casa,59,293.58,20.94,3,enero,1
+238,valparaiso,suburbana,5,departamento,65,368.46,18.54,8,febrero,2
+239,concepcion,rural,5,casa,68,504.21,16.76,5,julio,7
+240,la serena,rural,4,casa,40,550.61,20.35,3,enero,1
+241,valparaiso,suburbana,4,casa,158,556.15,14.87,2,agosto,8
+242,concepcion,rural,5,casa,74,470.84,10.59,3,enero,1
+243,la serena,urbana,2,casa,98,452.41,14.18,2,agosto,8
+244,santiago,urbana,3,departamento,108,409.25,11.28,1,febrero,2
+245,concepcion,rural,3,departamento,51,427.84,11.62,4,enero,1
+246,valparaiso,urbana,3,casa,59,294.88,14.28,1,diciembre,12
+247,santiago,rural,4,casa,82,268.18,11.04,5,febrero,2
+248,santiago,urbana,4,casa,165,349.66,13.46,2,agosto,8
+249,santiago,urbana,2,departamento,89,332.98,5.53,5,febrero,2
+250,concepcion,rural,3,casa,68,304.68,16.07,9,enero,1
+251,valparaiso,urbana,3,departamento,78,419.64,15.01,8,julio,7
+252,santiago,rural,5,departamento,190,445.53,10.91,0,julio,7
+253,la serena,urbana,4,departamento,77,358.84,18.3,5,agosto,8
+254,santiago,urbana,3,casa,123,497.75,19.69,8,agosto,8
+255,santiago,suburbana,2,departamento,190,235.83,6.96,3,julio,7
+256,concepcion,suburbana,2,casa,167,330.63,11.19,1,agosto,8
+257,concepcion,rural,3,departamento,165,278.32,11.15,3,febrero,2
+258,valparaiso,suburbana,4,casa,84,163.35,10.3,0,diciembre,12
+259,la serena,rural,2,departamento,91,341.73,19.15,2,diciembre,12
+260,concepcion,suburbana,5,casa,119,337.83,14.03,9,febrero,2
+261,santiago,urbana,2,departamento,163,501.34,13.68,8,diciembre,12
+262,valparaiso,rural,1,casa,158,413.08,4.98,9,enero,1
+263,santiago,rural,1,casa,47,247.58,18.18,4,febrero,2
+264,santiago,urbana,4,casa,124,535.41,8.8,5,agosto,8
+265,concepcion,rural,3,casa,168,472.1,15.3,2,febrero,2
+266,valparaiso,rural,4,departamento,47,408.21,16.39,4,julio,7
+267,la serena,suburbana,4,departamento,196,327.35,21.8,7,agosto,8
+268,la serena,rural,4,casa,135,254.06,8.46,5,julio,7
+269,concepcion,urbana,4,departamento,141,312.78,1.0,3,agosto,8
+270,concepcion,suburbana,5,casa,44,458.87,15.92,1,diciembre,12
+271,valparaiso,suburbana,5,casa,125,538.46,24.0,8,febrero,2
+272,la serena,urbana,2,departamento,73,504.32,21.19,0,enero,1
+273,la serena,urbana,1,casa,94,301.12,16.05,0,agosto,8
+274,la serena,suburbana,4,casa,158,238.04,12.54,3,agosto,8
+275,santiago,rural,2,departamento,197,364.09,19.04,6,julio,7
+276,la serena,suburbana,1,casa,153,173.16,10.13,0,diciembre,12
+277,santiago,urbana,3,casa,184,382.32,17.38,8,julio,7
+278,valparaiso,suburbana,5,casa,65,335.24,17.53,3,julio,7
+279,santiago,urbana,1,casa,175,303.4,20.3,2,diciembre,12
+280,valparaiso,suburbana,3,departamento,86,190.53,28.8,0,enero,1
+281,la serena,rural,1,departamento,152,401.36,16.96,9,julio,7
+282,la serena,suburbana,5,departamento,115,296.73,12.46,3,julio,7
+283,valparaiso,suburbana,5,casa,111,233.01,14.87,8,agosto,8
+284,concepcion,urbana,2,casa,128,62.77,6.15,9,diciembre,12
+285,valparaiso,urbana,4,departamento,85,347.25,11.53,5,febrero,2
+286,concepcion,urbana,1,casa,72,527.23,12.95,5,enero,1
+287,santiago,suburbana,1,casa,40,516.13,12.38,0,enero,1
+288,santiago,rural,3,casa,186,304.29,15.76,9,diciembre,12
+289,santiago,urbana,5,casa,70,289.78,10.89,1,agosto,8
+290,la serena,urbana,1,departamento,181,396.88,20.61,5,agosto,8
+291,santiago,suburbana,5,departamento,92,250.16,15.0,1,diciembre,12
+292,concepcion,urbana,1,departamento,87,380.18,14.95,2,agosto,8
+293,santiago,rural,2,casa,108,426.61,13.36,3,enero,1
+294,valparaiso,rural,4,departamento,144,472.69,15.78,4,enero,1
+295,valparaiso,urbana,1,departamento,129,339.98,19.13,8,febrero,2
+296,la serena,urbana,5,casa,102,329.63,10.66,3,diciembre,12
+297,valparaiso,suburbana,2,casa,112,262.2,11.71,8,julio,7
+298,concepcion,rural,1,departamento,128,267.31,13.48,9,julio,7
+299,santiago,rural,3,departamento,52,327.35,8.27,2,febrero,2
+300,la serena,urbana,4,departamento,112,386.74,10.9,7,febrero,2
+301,santiago,suburbana,1,departamento,116,441.36,12.62,0,agosto,8
+302,santiago,rural,2,casa,198,269.68,19.37,8,febrero,2
+303,concepcion,rural,3,departamento,107,499.27,16.31,8,febrero,2
+304,valparaiso,suburbana,2,departamento,137,322.89,15.97,9,julio,7
+305,valparaiso,suburbana,2,casa,164,347.86,19.25,1,agosto,8
+306,santiago,rural,3,departamento,141,275.28,14.31,3,febrero,2
+307,la serena,rural,2,casa,171,107.58,16.95,7,febrero,2
+308,valparaiso,suburbana,3,casa,141,438.4,14.48,6,agosto,8
+309,la serena,rural,1,casa,58,423.68,16.33,0,diciembre,12
+310,valparaiso,urbana,3,departamento,121,321.87,12.09,4,agosto,8
+311,la serena,urbana,3,departamento,180,356.7,2.81,6,julio,7
+312,concepcion,suburbana,4,casa,62,401.59,14.33,3,diciembre,12
+313,la serena,suburbana,3,departamento,122,193.75,22.11,0,enero,1
+314,concepcion,suburbana,3,departamento,148,297.09,19.63,8,agosto,8
+315,concepcion,urbana,1,casa,114,429.43,19.83,4,julio,7
+316,la serena,rural,4,casa,168,224.57,21.18,1,diciembre,12
+317,concepcion,urbana,5,departamento,127,379.36,15.44,7,agosto,8
+318,santiago,rural,1,casa,93,214.34,15.99,1,febrero,2
+319,concepcion,urbana,1,departamento,128,396.64,11.91,2,agosto,8
+320,valparaiso,rural,5,departamento,182,346.44,13.42,9,enero,1
+321,la serena,urbana,3,departamento,104,188.49,18.08,0,agosto,8
+322,santiago,suburbana,2,departamento,115,466.47,21.02,1,diciembre,12
+323,la serena,urbana,4,casa,182,276.54,14.3,6,diciembre,12
+324,valparaiso,rural,2,casa,188,268.97,12.75,9,agosto,8
+325,valparaiso,urbana,5,casa,186,370.06,15.0,1,diciembre,12
+326,valparaiso,urbana,1,casa,99,464.86,18.01,5,febrero,2
+327,concepcion,urbana,1,departamento,132,248.42,7.78,2,agosto,8
+328,concepcion,suburbana,4,departamento,88,356.17,3.52,3,febrero,2
+329,la serena,urbana,1,casa,74,392.88,12.25,7,febrero,2
+330,la serena,suburbana,1,departamento,141,419.31,8.9,2,julio,7
+331,santiago,suburbana,4,departamento,50,367.64,12.46,9,agosto,8
+332,santiago,urbana,4,departamento,138,313.3,14.26,5,diciembre,12
+333,la serena,urbana,5,casa,149,267.24,12.73,0,febrero,2
+334,concepcion,urbana,1,casa,113,358.61,22.26,6,julio,7
+335,valparaiso,rural,1,casa,48,242.79,16.63,7,agosto,8
+336,la serena,urbana,5,departamento,42,57.86,16.5,7,agosto,8
+337,santiago,suburbana,3,casa,124,393.66,18.11,2,enero,1
+338,concepcion,urbana,3,casa,65,440.39,9.31,9,enero,1
+339,la serena,rural,3,casa,111,113.71,20.2,0,febrero,2
+340,la serena,urbana,5,casa,87,249.03,14.62,8,enero,1
+341,concepcion,rural,1,casa,195,411.92,18.35,5,febrero,2
+342,la serena,rural,5,casa,156,555.75,9.64,8,diciembre,12
+343,concepcion,urbana,5,departamento,193,352.08,7.23,6,febrero,2
+344,valparaiso,suburbana,3,departamento,192,277.2,19.09,0,enero,1
+345,concepcion,rural,2,casa,51,331.71,16.88,0,diciembre,12
+346,concepcion,urbana,1,casa,172,487.49,10.49,5,enero,1
+347,concepcion,urbana,3,departamento,87,285.4,10.65,4,febrero,2
+348,la serena,suburbana,2,departamento,76,270.08,20.63,8,julio,7
+349,la serena,rural,2,casa,83,301.73,9.05,1,agosto,8
+350,concepcion,rural,4,casa,54,254.67,23.21,7,enero,1
+351,la serena,urbana,1,casa,82,362.27,10.5,4,febrero,2
+352,santiago,urbana,2,casa,126,512.47,18.19,1,diciembre,12
+353,santiago,suburbana,3,departamento,109,382.31,13.36,9,enero,1
+354,la serena,suburbana,4,casa,85,324.76,18.02,5,enero,1
+355,la serena,rural,1,casa,147,320.82,12.28,9,agosto,8
+356,concepcion,rural,5,casa,162,193.68,14.19,7,febrero,2
+357,valparaiso,urbana,3,casa,60,438.31,15.2,3,julio,7
+358,la serena,rural,2,departamento,190,342.22,9.99,1,diciembre,12
+359,santiago,suburbana,2,departamento,146,331.95,18.7,4,febrero,2
+360,concepcion,suburbana,3,departamento,119,669.31,12.43,1,diciembre,12
+361,la serena,urbana,2,casa,86,379.88,13.86,1,enero,1
+362,santiago,suburbana,4,casa,156,274.82,10.03,5,agosto,8
+363,santiago,suburbana,1,departamento,163,307.36,2.19,9,agosto,8
+364,valparaiso,suburbana,4,casa,182,464.84,14.04,8,julio,7
+365,concepcion,suburbana,2,casa,64,361.33,27.06,3,agosto,8
+366,concepcion,urbana,5,departamento,75,206.17,18.92,5,enero,1
+367,valparaiso,urbana,1,departamento,90,441.92,14.9,6,julio,7
+368,valparaiso,rural,1,departamento,54,283.19,13.69,5,febrero,2
+369,concepcion,suburbana,3,departamento,107,537.33,15.11,7,agosto,8
+370,concepcion,rural,3,casa,60,458.0,17.74,3,julio,7
+371,la serena,urbana,5,casa,180,305.27,9.1,0,enero,1
+372,la serena,urbana,1,departamento,58,478.1,20.57,6,diciembre,12
+373,valparaiso,urbana,5,casa,73,356.79,18.58,2,diciembre,12
+374,la serena,urbana,3,departamento,117,435.28,18.59,5,enero,1
+375,santiago,urbana,3,departamento,164,398.47,17.19,1,enero,1
+376,la serena,urbana,1,casa,156,265.36,15.1,8,diciembre,12
+377,la serena,urbana,4,departamento,91,285.65,18.36,0,julio,7
+378,santiago,suburbana,2,casa,66,453.0,17.96,5,diciembre,12
+379,valparaiso,rural,3,casa,196,316.52,13.23,5,enero,1
+380,santiago,urbana,3,casa,195,309.64,12.13,4,agosto,8
+381,la serena,suburbana,4,casa,74,254.49,15.51,4,febrero,2
+382,valparaiso,suburbana,4,departamento,175,392.36,22.75,0,agosto,8
+383,la serena,rural,5,casa,183,556.25,8.8,9,agosto,8
+384,santiago,urbana,5,departamento,145,243.25,7.66,4,enero,1
+385,santiago,rural,2,departamento,197,352.42,15.82,1,diciembre,12
+386,la serena,urbana,2,departamento,185,491.22,15.25,6,julio,7
+387,concepcion,suburbana,1,departamento,41,342.04,15.87,2,agosto,8
+388,concepcion,suburbana,5,casa,116,395.24,16.22,3,diciembre,12
+389,santiago,suburbana,3,casa,171,243.76,13.88,2,julio,7
+390,santiago,suburbana,5,departamento,129,392.83,22.45,2,agosto,8
+391,concepcion,rural,3,departamento,128,331.29,7.0,3,julio,7
+392,concepcion,urbana,4,casa,133,448.57,10.86,4,diciembre,12
+393,la serena,urbana,5,departamento,46,468.74,14.48,0,febrero,2
+394,la serena,rural,4,casa,134,608.96,6.78,3,diciembre,12
+395,concepcion,urbana,2,departamento,147,407.96,14.12,7,enero,1
+396,la serena,suburbana,2,casa,113,382.58,23.31,9,julio,7
+397,la serena,urbana,1,departamento,78,369.44,15.1,6,febrero,2
+398,valparaiso,suburbana,5,departamento,180,314.68,16.15,8,julio,7
+399,la serena,rural,4,casa,198,383.85,8.7,4,julio,7
+400,santiago,urbana,3,departamento,110,320.46,11.92,9,agosto,8
+401,la serena,rural,2,departamento,95,366.85,13.12,3,enero,1
+402,la serena,urbana,2,casa,81,481.76,13.41,7,julio,7
+403,concepcion,suburbana,3,departamento,75,249.35,21.41,8,diciembre,12
+404,santiago,rural,4,casa,123,463.99,17.79,6,diciembre,12
+405,la serena,urbana,4,casa,157,481.71,9.44,6,agosto,8
+406,la serena,suburbana,5,departamento,46,338.19,16.23,4,enero,1
+407,valparaiso,rural,5,departamento,93,137.81,17.49,3,enero,1
+408,la serena,rural,1,departamento,168,289.22,20.7,9,diciembre,12
+409,la serena,urbana,2,departamento,159,479.7,22.9,0,febrero,2
+410,valparaiso,urbana,5,departamento,145,347.71,9.92,9,agosto,8
+411,concepcion,urbana,4,departamento,86,250.07,10.95,9,agosto,8
+412,la serena,suburbana,3,departamento,162,299.52,8.71,6,diciembre,12
+413,valparaiso,urbana,4,casa,180,434.06,13.83,0,diciembre,12
+414,santiago,rural,2,departamento,158,404.67,17.33,0,febrero,2
+415,concepcion,rural,4,casa,189,326.11,19.94,4,febrero,2
+416,santiago,urbana,1,departamento,157,313.32,14.62,8,enero,1
+417,santiago,urbana,2,departamento,60,310.82,13.4,5,agosto,8
+418,valparaiso,rural,3,casa,176,257.76,15.76,2,agosto,8
+419,la serena,suburbana,1,departamento,65,511.54,10.82,2,diciembre,12
+420,valparaiso,urbana,2,departamento,48,317.77,25.45,6,enero,1
+421,valparaiso,urbana,3,casa,54,471.72,6.96,5,agosto,8
+422,valparaiso,rural,1,departamento,49,502.13,15.92,8,enero,1
+423,valparaiso,urbana,1,departamento,161,449.83,25.12,5,enero,1
+424,concepcion,suburbana,2,departamento,160,306.84,15.03,4,diciembre,12
+425,la serena,rural,5,casa,164,390.37,14.05,9,enero,1
+426,santiago,urbana,1,departamento,111,347.58,13.21,6,febrero,2
+427,santiago,rural,1,departamento,191,259.63,14.1,0,febrero,2
+428,la serena,urbana,3,departamento,88,382.44,21.86,6,julio,7
+429,santiago,urbana,4,departamento,193,232.1,3.94,2,diciembre,12
+430,la serena,urbana,2,casa,130,468.77,22.67,8,julio,7
+431,santiago,suburbana,2,casa,76,303.54,7.88,5,febrero,2
+432,valparaiso,suburbana,5,departamento,107,370.12,13.67,8,julio,7
+433,santiago,rural,5,departamento,89,378.33,12.85,4,diciembre,12
+434,la serena,urbana,2,casa,191,324.11,17.94,6,diciembre,12
+435,la serena,urbana,5,casa,58,408.67,7.01,3,enero,1
+436,la serena,suburbana,3,departamento,139,302.51,17.31,6,agosto,8
+437,la serena,urbana,2,casa,99,437.13,25.12,0,enero,1
+438,la serena,suburbana,5,departamento,128,215.4,8.18,6,diciembre,12
+439,concepcion,urbana,2,casa,185,362.64,15.95,7,febrero,2
+440,concepcion,rural,4,casa,186,543.89,11.69,4,febrero,2
+441,santiago,urbana,1,casa,108,249.97,17.13,1,enero,1
+442,la serena,urbana,2,casa,88,282.23,15.1,4,diciembre,12
+443,santiago,suburbana,1,departamento,147,401.39,11.79,5,febrero,2
+444,la serena,urbana,5,casa,158,367.96,17.44,1,diciembre,12
+445,la serena,urbana,1,casa,188,385.06,24.02,5,febrero,2
+446,concepcion,suburbana,2,departamento,189,398.92,14.05,5,diciembre,12
+447,concepcion,rural,4,casa,76,413.47,18.6,0,julio,7
+448,valparaiso,rural,5,casa,182,460.97,8.53,0,diciembre,12
+449,concepcion,suburbana,2,departamento,199,390.98,10.22,9,diciembre,12
+450,valparaiso,suburbana,5,casa,50,325.87,17.36,2,enero,1
+451,valparaiso,suburbana,3,departamento,177,417.26,22.42,9,julio,7
+452,valparaiso,suburbana,1,departamento,117,539.99,16.78,9,agosto,8
+453,valparaiso,suburbana,3,departamento,116,336.74,13.43,2,enero,1
+454,valparaiso,rural,2,departamento,192,252.55,15.0,3,agosto,8
+455,santiago,rural,4,casa,41,460.71,8.75,1,febrero,2
+456,concepcion,suburbana,5,departamento,103,337.96,18.02,8,agosto,8
+457,valparaiso,urbana,1,casa,74,132.73,19.41,9,diciembre,12
+458,la serena,suburbana,5,casa,46,434.74,12.74,6,agosto,8
+459,concepcion,urbana,2,casa,124,296.47,12.65,6,enero,1
+460,concepcion,suburbana,5,casa,185,340.95,16.33,5,enero,1
+461,valparaiso,suburbana,1,casa,106,383.2,12.82,2,agosto,8
+462,santiago,rural,2,casa,81,369.05,14.67,5,enero,1
+463,valparaiso,urbana,5,casa,157,420.95,25.5,7,enero,1
+464,santiago,urbana,4,casa,164,306.45,13.76,7,agosto,8
+465,la serena,rural,2,casa,63,401.31,13.21,8,julio,7
+466,concepcion,rural,2,casa,85,324.05,11.76,0,julio,7
+467,la serena,rural,4,departamento,58,423.88,18.72,0,febrero,2
+468,santiago,rural,3,departamento,107,411.54,14.09,2,enero,1
+469,santiago,urbana,1,departamento,141,256.46,11.75,2,agosto,8
+470,la serena,urbana,3,casa,81,458.6,21.61,9,enero,1
+471,santiago,suburbana,5,departamento,71,296.4,22.1,7,diciembre,12
+472,la serena,suburbana,4,departamento,148,430.81,12.0,9,enero,1
+473,concepcion,rural,3,departamento,75,386.73,5.67,0,enero,1
+474,la serena,rural,2,casa,136,533.82,20.04,1,julio,7
+475,concepcion,rural,5,casa,170,327.65,11.58,1,agosto,8
+476,la serena,suburbana,5,casa,112,315.07,18.95,2,enero,1
+477,santiago,suburbana,3,casa,175,348.06,5.15,5,julio,7
+478,la serena,suburbana,3,departamento,136,319.68,19.46,0,febrero,2
+479,santiago,suburbana,4,departamento,162,429.99,8.94,1,julio,7
+480,la serena,suburbana,1,departamento,109,188.37,18.65,0,julio,7
+481,la serena,suburbana,3,departamento,52,244.63,15.07,4,julio,7
+482,valparaiso,suburbana,3,casa,88,243.22,10.23,6,enero,1
+483,santiago,rural,2,casa,99,445.03,12.96,7,enero,1
+484,valparaiso,rural,5,casa,169,521.06,18.43,9,febrero,2
+485,santiago,rural,1,departamento,44,339.56,15.53,0,diciembre,12
+486,valparaiso,rural,2,casa,66,333.12,17.92,6,diciembre,12
+487,concepcion,suburbana,4,casa,199,357.01,24.88,4,diciembre,12
+488,la serena,urbana,4,departamento,188,466.19,7.18,9,febrero,2
+489,santiago,suburbana,3,departamento,47,257.26,23.09,0,diciembre,12
+490,santiago,urbana,3,casa,89,373.84,15.52,2,diciembre,12
+491,la serena,rural,4,casa,106,447.52,10.51,6,julio,7
+492,santiago,suburbana,3,casa,83,400.11,8.35,9,enero,1
+493,santiago,rural,1,casa,164,368.96,14.05,0,enero,1
+494,valparaiso,suburbana,3,casa,97,450.1,19.61,6,julio,7
+495,santiago,rural,5,casa,42,79.68,14.36,4,julio,7
+496,concepcion,urbana,3,departamento,125,417.79,22.56,0,julio,7
+497,concepcion,urbana,2,departamento,109,284.59,7.74,0,enero,1
+498,la serena,urbana,1,departamento,169,166.94,14.94,0,diciembre,12
+499,santiago,suburbana,2,casa,41,401.12,8.74,8,julio,7
+500,la serena,urbana,2,departamento,141,487.37,16.82,2,febrero,2
