@@ -1,6 +1,6 @@
-from src.lector_csv import leer_csv
+from src.manejo_archivo.lector_csv import leer_csv
 from src.limpieza.limpieza_csv import limpiar_csv
-from src.guardar_csv import guardar_csv
+from src.manejo_archivo.guardar_csv import guardar_csv
 from src.limpieza.analisis_outliers import resumen_outliers
 from src.limpieza.limitar_outliers import capar_outliers
 from src.eda.analisis_exploratorio import eda
@@ -44,6 +44,6 @@ def main():
     else:
         print('NO SE PUEDE TRABAJAR CON EL ARCHIVO')
         
-        
+
 if __name__ == '__main__':
     main()
