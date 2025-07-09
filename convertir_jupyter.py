@@ -13,5 +13,5 @@ def convert_py_to_ipynb(root_dir):
                 print(f"Convirtiendo: {full_path}")
                 subprocess.run(["p2j", full_path])
 
-
+# raw string
 convert_py_to_ipynb(r"C:\Users\Pabu\Desktop\mineria_datos\python-mineria-datos")
