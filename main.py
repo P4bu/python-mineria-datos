@@ -25,7 +25,14 @@ def main():
         df_sin_outliers = capar_outliers(df_outliers)
 
         # guardar
-        print(df_sin_outliers)
+        # print(df_sin_outliers)
+
+        promedio_por_ciudad = df.groupby("ciudad")["consumo_kw_mes"].mean()
+        print(promedio_por_ciudad)
+
+        promedio_por_ciudad_zona = df.groupby(["ciudad", "zona"])["consumo_kw_mes"].mean()
+        print(promedio_por_ciudad_zona)
+
         guardar_csv(df, path_limpio)
     else:
         print('NO SE PUDO TRABAJAR EL ARCHIVO')

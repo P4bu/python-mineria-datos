@@ -21,3 +21,11 @@ def eda(df):
     sns.boxplot(data=df, x='zona', y='consumo_kw_mes')
     plt.title("Consumo por zona")
     plt.show()
+
+    promedio_zona = df.groupby('zona')['consumo_kw_mes'].mean().reset_index()
+    sns.barplot(data=promedio_zona, x='zona', y='consumo_kw_mes', palette='Set2')
+    plt.title("Promedio mensual de consumo por zona (kW)")
+    plt.xlabel("Zona")
+    plt.ylabel("Consumo promedio (kW/mes)")
+    plt.tight_layout()
+    plt.show()
